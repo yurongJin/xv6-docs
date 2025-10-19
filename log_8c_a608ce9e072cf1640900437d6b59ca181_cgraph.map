@@ -1,0 +1,9 @@
+<map id="read_head" name="read_head">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,96,56"/>
+<area shape="rect" id="Node000002" href="$bio_8c.html#a30b8d2ef2300ed8e3d879a428fe39898" title=" " alt="" coords="146,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,32,132,24,133,29,97,37"/>
+<area shape="rect" id="Node000004" href="$bio_8c.html#ab5335aeb503731104314321a78a6d727" title=" " alt="" coords="144,55,207,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,49,131,56,130,61,96,55"/>
+<area shape="rect" id="Node000003" href="$bio_8c.html#a69dcd3ce86d958b4024c6746263f3f5b" title=" " alt="" coords="255,5,305,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,15,241,15,241,21,205,21"/>
+</map>

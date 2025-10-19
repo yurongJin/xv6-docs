@@ -1,0 +1,24 @@
+<map id="bwrite" name="bwrite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="581,55,644,80"/>
+<area shape="rect" id="Node000002" href="$log_8c.html#ab5eaeac1ab988530dcda4fd57a634df0" title=" " alt="" coords="431,104,533,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,86,518,106,516,101,567,82"/>
+<area shape="rect" id="Node000009" href="$log_8c.html#a34322134c00d3e9ad7fb48a7baa9a4c5" title=" " alt="" coords="435,55,529,80"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="567,70,529,70,529,65,567,65"/>
+<area shape="rect" id="Node000010" href="$log_8c.html#af4e7fbf2920c27568c9b88d45f0bd5e1" title=" " alt="" coords="441,5,523,31"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="567,53,516,33,518,28,569,48"/>
+<area shape="rect" id="Node000003" href="$log_8c.html#a504ac82448623ae8ad27b97dbed82694" title=" " alt="" coords="279,55,351,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,103,350,80,352,75,426,98"/>
+<area shape="rect" id="Node000007" href="$log_8c.html#a18cdf83ef674be145df14b83500f1d1b" title=" " alt="" coords="247,104,383,129"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="417,119,383,119,383,114,417,114"/>
+<area shape="rect" id="Node000004" href="$log_8c.html#ac0f12be0ca0de555e60b27b06a57a65b" title=" " alt="" coords="129,55,199,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,70,199,70,199,65,265,65"/>
+<area shape="rect" id="Node000005" href="$file_8c.html#ae557c81ab89c24219146144bb6adaa2c" title=" " alt="" coords="5,31,81,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="115,60,81,53,82,48,116,55"/>
+<area shape="rect" id="Node000006" href="$file_8c.html#ab8de757a0a9f58dcc6511ea5e46ebb88" title=" " alt="" coords="6,80,81,105"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="116,80,81,88,80,82,115,75"/>
+<area shape="rect" id="Node000008" href="$log_8c.html#ad5e79aaefb91f41b9ef6aeae7ecf4708" title=" " alt="" coords="133,104,195,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="233,119,196,119,196,114,233,114"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="421,70,351,70,351,65,421,65"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="426,87,360,106,358,101,424,81"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="428,37,352,59,350,54,427,31"/>
+</map>
